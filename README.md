@@ -9,7 +9,7 @@
    - `Data Direction` to `Receive and Transmit` (to make STM32 a publisher or subscriber)
 ![image](https://github.com/dityag/rosserial-stm32/assets/83180280/5731d469-a642-41db-8695-0a532bbb3961)
 
-3. Add **DMA Stream** to `UART_TX` and `UART_RX`
+3. Add **DMA Stream** to `UART_TX` and `UART_RX`                                             
 ![image](https://github.com/dityag/rosserial-stm32/assets/83180280/b38a6ba5-9de7-45a2-b8a2-ee786b02e4d9)
 ![image](https://github.com/dityag/rosserial-stm32/assets/83180280/5333c350-ab0e-4692-b598-03f2d1520c5c)
 
@@ -17,7 +17,7 @@
 ![image](https://github.com/dityag/rosserial-stm32/assets/83180280/e919781a-e5b8-4a22-a82a-df46b2826bf7)
 
 ## Workspace Setting
-1. In your workspace `Right-click` -> `convert to c++`
+1. In your workspace `Right-click` -> `convert to c++`                           
 ![image](https://github.com/dityag/rosserial-stm32/assets/83180280/017c5352-c394-4541-a8ac-33b2facec51d)
 
 2. `Right-click` on your workspace -> `Properties` -> `C/C++ General` -> `File Types`
